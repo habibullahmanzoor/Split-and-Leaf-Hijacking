@@ -1,0 +1,26 @@
+{
+ "events": [
+  {
+   "task": "leaf_adult_1.0_7",
+   "first_execution": "paillier_overflow",
+   "reruns": 3,
+   "reruns_ok": 3,
+   "reruns_identical": true
+  },
+  {
+   "task": "bd_credit_8_1",
+   "first_execution": "paillier_overflow",
+   "reruns": 3,
+   "reruns_ok": 3,
+   "reruns_identical": true
+  },
+  {
+   "task": "party_3_0",
+   "first_execution": "paillier_overflow",
+   "reruns": 3,
+   "reruns_ok": 3,
+   "reruns_identical": true
+  }
+ ],
+ "note": "Three tasks of the unified VFL batch raised a Paillier OverflowError on first execution; each was rerun three times with fresh keys, all nine reruns succeeded with identical results. A fourth overflow occurred earlier in the first converged batch (task not identified; its unfinished tasks were repeated eight times without overflow)."
+}

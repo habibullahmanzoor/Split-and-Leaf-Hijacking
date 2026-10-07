@@ -1,0 +1,6 @@
+[label-shuffle under boosting] malicious_fraction=0.0  test AUC = 0.9040 +/- 0.0000 (trials: ['0.904', '0.904', '0.904', '0.904', '0.904'])
+[label-shuffle under boosting] malicious_fraction=0.1  test AUC = 0.9007 +/- 0.0066 (trials: ['0.903', '0.903', '0.889', '0.904', '0.904'])
+[label-shuffle under boosting] malicious_fraction=0.2  test AUC = 0.9007 +/- 0.0066 (trials: ['0.903', '0.903', '0.889', '0.904', '0.904'])
+[label-shuffle under boosting] malicious_fraction=0.3  test AUC = 0.9005 +/- 0.0067 (trials: ['0.904', '0.903', '0.888', '0.904', '0.903'])
+[label-shuffle under boosting] malicious_fraction=0.4  test AUC = 0.9005 +/- 0.0067 (trials: ['0.904', '0.903', '0.888', '0.904', '0.903'])
+[label-shuffle under boosting] malicious_fraction=0.5  test AUC = 0.8931 +/- 0.0154 (trials: ['0.904', '0.894', '0.866', '0.897', '0.903'])

@@ -1,0 +1,8 @@
+('tgt', 'credit_default', 'variance', 0) ok {'honest': 0.7719022550483224, 'attacked': 0.6867093580576726}
+('tgt', 'credit_default', 'variance', 0) ok {'honest': 0.7719022550483224, 'attacked': 0.6867093580576726}
+('tgt', 'credit_default', 'variance', 0) ok {'honest': 0.7719022550483224, 'attacked': 0.6867093580576726}
+('tgt', 'credit_default', 'variance', 0) ok {'honest': 0.7719022550483224, 'attacked': 0.6867093580576726}
+('tgt', 'adult', 'fixed', 4) ok {'honest': 0.8898797831382101, 'attacked': 0.8720633299284984}
+('tgt', 'adult', 'fixed', 4) ok {'honest': 0.8898797831382101, 'attacked': 0.8720633299284984}
+('tgt', 'adult', 'fixed', 4) ok {'honest': 0.8898797831382101, 'attacked': 0.8720633299284984}
+('tgt', 'adult', 'fixed', 4) ok {'honest': 0.8898797831382101, 'attacked': 0.8720633299284984}

@@ -1,0 +1,8 @@
+=== Heart Disease, n_rounds=5, 5 seeds ===
+  num_plants= 1  honest=0.8526  AUC_cost=-0.0021+/-0.0046  flip_rate=0.0468+/-0.0518  (n_target last trial=43)
+  num_plants= 5  honest=0.8526  AUC_cost=+0.0115+/-0.0181  flip_rate=0.0681+/-0.0771  (n_target last trial=43)
+  num_plants= 8  honest=0.8526  AUC_cost=+0.0021+/-0.0291  flip_rate=0.1125+/-0.1115  (n_target last trial=43)
+=== Credit Default, n_rounds=3, 5 seeds ===
+  num_plants= 1  honest=0.7517  AUC_cost=+0.0000+/-0.0000  flip_rate=0.0160+/-0.0212  (n_target last trial=375)
+  num_plants= 5  honest=0.7517  AUC_cost=+0.0000+/-0.0000  flip_rate=0.0160+/-0.0212  (n_target last trial=375)
+  num_plants= 8  honest=0.7517  AUC_cost=+0.0000+/-0.0000  flip_rate=0.0160+/-0.0212  (n_target last trial=375)

@@ -1,0 +1,11 @@
+=== category-3 sweep at n_rounds=3 (paper's standard config) ===
+  scale=   1.0  AUC=0.8690+/-0.0110
+  scale=   2.0  AUC=0.7926+/-0.0223
+  scale=   5.0  AUC=0.7926+/-0.0223
+  scale=  10.0  AUC=0.7926+/-0.0223
+  scale=  50.0  AUC=0.7926+/-0.0223
+  scale= 200.0  AUC=0.7926+/-0.0223
+
+=== category-3 sweep at n_rounds=20 (convergence-respecting) ===
+  scale=   1.0  AUC=0.8953+/-0.0059
+  scale=   2.0  AUC=0.8806+/-0.0106

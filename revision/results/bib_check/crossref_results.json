@@ -1,0 +1,1296 @@
+{
+ "blanchard2017krum": {
+  "bib_title": "Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent",
+  "candidates": []
+ },
+ "yin2018byzantine": {
+  "bib_title": "Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates",
+  "candidates": []
+ },
+ "karimireddy2022bucketing": {
+  "bib_title": "Byzantine-Robust Learning on Heterogeneous Datasets via Bucketing",
+  "candidates": [
+   {
+    "doi": "10.1109/tifs.2026.3714122/mm1",
+    "title": "A Byzantine-Robust Secure Federated Learning Scheme in Heterogeneous Data_supp1-3714122.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "Wang"
+    ]
+   },
+   {
+    "doi": "10.1109/tifs.2026.3683268/mm1",
+    "title": "Byzantine-Robust Asynchronous Federated Learning via Feature Fingerprinting_supp1-3683268.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "SHEN"
+    ]
+   },
+   {
+    "doi": "10.1109/tcyb.2025.3628486/mm1",
+    "title": "Order-Optimal Byzantine-Robust Learning Under Heterogeneity via Fair Gradient Clipping_supp1-3628486.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "So"
+    ]
+   }
+  ]
+ },
+ "mcmahan2017fedavg": {
+  "bib_title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+  "candidates": []
+ },
+ "chen2016xgboost": {
+  "bib_title": "XGBoost: A Scalable Tree Boosting System",
+  "candidates": []
+ },
+ "cheng2021secureboost": {
+  "bib_title": "SecureBoost: A Lossless Federated Learning Framework",
+  "candidates": []
+ },
+ "xu2020verifynet": {
+  "bib_title": "VerifyNet: Secure and Verifiable Federated Learning",
+  "candidates": []
+ },
+ "li2020fedgbdt": {
+  "bib_title": "Practical Federated Gradient Boosting Decision Trees",
+  "candidates": []
+ },
+ "zhu2019deepleakage": {
+  "bib_title": "Deep Leakage from Gradients",
+  "candidates": [
+   {
+    "doi": "10.1007/978-3-030-63076-8_2",
+    "title": "Deep Leakage from Gradients",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2020,
+    "volume": null,
+    "issue": null,
+    "page": "17-31",
+    "type": "book-chapter",
+    "authors": [
+     "Zhu",
+     "Han"
+    ]
+   },
+   {
+    "doi": "10.1109/ichi52183.2021.00078",
+    "title": "Deep Leakage from Gradients in Multiple-label Medical Image Classification",
+    "venue": "2021 IEEE 9th International Conference on Healthcare Informatics (ICHI)",
+    "year": 2021,
+    "volume": null,
+    "issue": null,
+    "page": "447-448",
+    "type": "proceedings-article",
+    "authors": [
+     "Li",
+     "Hubchak",
+     "Zhu"
+    ]
+   },
+   {
+    "doi": "10.1109/icip55913.2025.11084627",
+    "title": "Anti-FT: Towards Practical Deep Leakage From Gradients",
+    "venue": "2025 IEEE International Conference on Image Processing (ICIP)",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "page": "2606-2611",
+    "type": "proceedings-article",
+    "authors": [
+     "Zhu",
+     "Li",
+     "Weng",
+     "Liu",
+     "Xia",
+     "Wang"
+    ]
+   }
+  ]
+ },
+ "shokri2017membership": {
+  "bib_title": "Membership Inference Attacks Against Machine Learning Models",
+  "candidates": [
+   {
+    "doi": "10.1109/sp.2017.41",
+    "title": "Membership Inference Attacks Against Machine Learning Models",
+    "venue": "2017 IEEE Symposium on Security and Privacy (SP)",
+    "year": 2017,
+    "volume": null,
+    "issue": null,
+    "page": "3-18",
+    "type": "proceedings-article",
+    "authors": [
+     "Shokri",
+     "Stronati",
+     "Song",
+     "Shmatikov"
+    ]
+   },
+   {
+    "doi": "10.1109/spw.2019.00021",
+    "title": "Membership Inference Attacks Against Adversarially Robust Deep Learning Models",
+    "venue": "2019 IEEE Security and Privacy Workshops (SPW)",
+    "year": 2019,
+    "volume": null,
+    "issue": null,
+    "page": "50-56",
+    "type": "proceedings-article",
+    "authors": [
+     "Song",
+     "Shokri",
+     "Mittal"
+    ]
+   },
+   {
+    "doi": "10.1145/3548606.3560675",
+    "title": "Enhanced Membership Inference Attacks against Machine Learning Models",
+    "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "3093-3106",
+    "type": "proceedings-article",
+    "authors": [
+     "Ye",
+     "Maddi",
+     "Murakonda",
+     "Bindschaedler",
+     "Shokri"
+    ]
+   }
+  ]
+ },
+ "luo2021feature": {
+  "bib_title": "Feature Inference Attack on Model Predictions in Vertical Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.1109/icde51399.2021.00023",
+    "title": "Feature Inference Attack on Model Predictions in Vertical Federated Learning",
+    "venue": "2021 IEEE 37th International Conference on Data Engineering (ICDE)",
+    "year": 2021,
+    "volume": null,
+    "issue": null,
+    "page": "181-192",
+    "type": "proceedings-article",
+    "authors": [
+     "Luo",
+     "Wu",
+     "Xiao",
+     "Ooi"
+    ]
+   },
+   {
+    "doi": "10.1109/icme57554.2024.10687832",
+    "title": "FIA-TE: Feature Inference Attack on Decision Tree Ensembles in Vertical Federated Learning",
+    "venue": "2024 IEEE International Conference on Multimedia and Expo (ICME)",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "1-6",
+    "type": "proceedings-article",
+    "authors": [
+     "Chen",
+     "Zan",
+     "Li",
+     "Guan",
+     "Wang"
+    ]
+   },
+   {
+    "doi": "10.1007/s10994-025-06804-2",
+    "title": "HFIA: a parasitic feature inference attack and gradient-based defense strategy in SplitNN-based vertical federated learning",
+    "venue": "Machine Learning",
+    "year": 2025,
+    "volume": "114",
+    "issue": "8",
+    "page": null,
+    "type": "journal-article",
+    "authors": [
+     "Dong",
+     "Zhou",
+     "Ru",
+     "He",
+     "Hua",
+     "Zhong"
+    ]
+   }
+  ]
+ },
+ "bhagoji2019analyzing": {
+  "bib_title": "Analyzing Federated Learning through an Adversarial Lens",
+  "candidates": [
+   {
+    "doi": "10.1016/b978-0-44-319037-7.00012-0",
+    "title": "Assessing vulnerabilities and securing federated learning",
+    "venue": "Federated Learning",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "75-90",
+    "type": "book-chapter",
+    "authors": [
+     "Chakraborty",
+     "Bhagoji"
+    ]
+   },
+   {
+    "doi": "10.52202/068431-2530",
+    "title": "Understanding Robust Learning Through the Lens of Representation Similarities",
+    "venue": "Advances in Neural Information Processing Systems 35",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "34912-34925",
+    "type": "proceedings-article",
+    "authors": [
+     "Cianfarani",
+     "Bhagoji",
+     "Sehwag",
+     "Zhao",
+     "Zheng",
+     "Mittal"
+    ]
+   },
+   {
+    "doi": "10.1109/datascimi67380.2026.11523793",
+    "title": "Analyzing Adversarial Attacks on Federated Learning based Medical Image Classification",
+    "venue": "2026 International Conference on Data Science, Machine Learning, and Intelligence (DataSciMI)",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": "1-6",
+    "type": "proceedings-article",
+    "authors": [
+     "Hamid",
+     "Bawany"
+    ]
+   }
+  ]
+ },
+ "fang2020local": {
+  "bib_title": "Local Model Poisoning Attacks to Byzantine-Robust Federated Learning",
+  "candidates": []
+ },
+ "bagdasaryan2020backdoor": {
+  "bib_title": "How To Backdoor Federated Learning",
+  "candidates": []
+ },
+ "weng2020privacy": {
+  "bib_title": "Practical Privacy Attacks on Vertical Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.14711/thesis-hdl167715",
+    "title": "Trustworthiness in Vertical Federated Learning: Privacy attacks, Robustness Vulnerabilities, and Secure Protocols",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "dissertation",
+    "authors": [
+     "Yao"
+    ]
+   },
+   {
+    "doi": "10.1109/sp54263.2024.00008",
+    "title": "BadVFL: Backdoor Attacks in Vertical Federated Learning",
+    "venue": "2024 IEEE Symposium on Security and Privacy (SP)",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "2013-2028",
+    "type": "proceedings-article",
+    "authors": [
+     "Naseri",
+     "Han",
+     "De Cristofaro"
+    ]
+   },
+   {
+    "doi": "10.1145/3808698",
+    "title": "Privacy Against Agnostic Inference Attacks in Vertical Federated Learning",
+    "venue": "ACM Transactions on Privacy and Security",
+    "year": 2026,
+    "volume": "29",
+    "issue": "3",
+    "page": "1-34",
+    "type": "journal-article",
+    "authors": [
+     "Varasteh"
+    ]
+   }
+  ]
+ },
+ "shen2025labelfree": {
+  "bib_title": "Label-Free Backdoor Attacks in Vertical Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.1609/aaai.v39i19.34246",
+    "title": "Label-Free Backdoor Attacks in Vertical Federated Learning",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2025,
+    "volume": "39",
+    "issue": "19",
+    "page": "20389-20397",
+    "type": "journal-article",
+    "authors": [
+     "Shen",
+     "Huang",
+     "Wan",
+     "Ye"
+    ]
+   },
+   {
+    "doi": "10.1109/tifs.2026.3652013/mm1",
+    "title": "Casper: A Causality-inspired Defense with Confounder against Label Inference Attacks in Vertical Split Federated Learning_supp1-3652013.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "SHEN"
+    ]
+   },
+   {
+    "doi": "10.1109/sp54263.2024.00008",
+    "title": "BadVFL: Backdoor Attacks in Vertical Federated Learning",
+    "venue": "2024 IEEE Symposium on Security and Privacy (SP)",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "2013-2028",
+    "type": "proceedings-article",
+    "authors": [
+     "Naseri",
+     "Han",
+     "De Cristofaro"
+    ]
+   }
+  ]
+ },
+ "digennaro2025timberstrike": {
+  "bib_title": "TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems",
+  "candidates": [
+   {
+    "doi": "10.56553/popets-2025-0145",
+    "title": "TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems",
+    "venue": "Proceedings on Privacy Enhancing Technologies",
+    "year": 2025,
+    "volume": "2025",
+    "issue": "4",
+    "page": "566-584",
+    "type": "journal-article",
+    "authors": [
+     "Di Gennaro",
+     "De Lucia",
+     "Longari",
+     "Zanero",
+     "Carminati"
+    ]
+   },
+   {
+    "doi": "10.55248/gengpi.6.0925.3242",
+    "title": "The Formalisms of Privacy Leakage: Reviewing the Mathematical Foundations of Server-Side Inference Attack Strategies in Federated Learning",
+    "venue": "International Journal of Research Publication and Reviews",
+    "year": 2025,
+    "volume": "6",
+    "issue": "9",
+    "page": "947-958",
+    "type": "journal-article",
+    "authors": [
+     "Odera",
+     "Agolla",
+     "Agong"
+    ]
+   },
+   {
+    "doi": "10.1109/tifs.2024.3515793/mm1",
+    "title": "Local Differential Privacy is Not Enough: A Sample Reconstruction Attack against Federated Learning with Local Differential Privacy_supp1-3515793.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "Dong"
+    ]
+   }
+  ]
+ },
+ "manzoor2022fedclamp": {
+  "bib_title": "FedClamp: An Algorithm for Identification of Anomalous Client in Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.1109/icecs202256217.2022.9970909",
+    "title": "FedClamp: An Algorithm for Identification of Anomalous Client in Federated Learning",
+    "venue": "2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS)",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "1-4",
+    "type": "proceedings-article",
+    "authors": [
+     "Manzoor",
+     "Khan",
+     "Khan",
+     "Ayaz",
+     "Flynn",
+     "Imran",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.7717/peerj-cs.2280/table-14",
+    "title": "Algorithm 3 : Add federated client training model contract.",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": []
+   },
+   {
+    "doi": "10.2139/ssrn.5369238",
+    "title": "A Lightweight Dual-Server Aggregation Federated Learning Framework with Malicious Client Identification",
+    "venue": "",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Chen",
+     "Zhong",
+     "Li"
+    ]
+   }
+  ]
+ },
+ "manzoor2023defending": {
+  "bib_title": "Defending Federated Learning from Backdoor Attacks: Anomaly-Aware FedAvg with Layer-Based Aggregation",
+  "candidates": [
+   {
+    "doi": "10.1109/pimrc56721.2023.10293950",
+    "title": "Defending Federated Learning from Backdoor Attacks: Anomaly-Aware FedAVG with Layer-Based Aggregation",
+    "venue": "2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+    "year": 2023,
+    "volume": null,
+    "issue": null,
+    "page": "1-6",
+    "type": "proceedings-article",
+    "authors": [
+     "Manzoor",
+     "Khan",
+     "Sher",
+     "Ahmad",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.2139/ssrn.6915107",
+    "title": "CASGuard: Collusion-Aware Soft Suppression for Defending Sybil Backdoor Attacks in Federated Learning",
+    "venue": "",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Ren",
+     "Cheng",
+     "Cao"
+    ]
+   },
+   {
+    "doi": "10.2139/ssrn.7308325",
+    "title": "RTCCA: Robust Temporal\u2013Cross Consistency Aggregation for Defending Federated Traffic-SignRecognition Against Stealthy Backdoor Attacks",
+    "venue": "",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Thomas",
+     "El Aasser"
+    ]
+   }
+  ]
+ },
+ "shabbir2024resilience": {
+  "bib_title": "Resilience of Federated Learning Against False Data Injection Attacks in Energy Forecasting",
+  "candidates": [
+   {
+    "doi": "10.1109/gecost60902.2024.10475064",
+    "title": "Resilience of Federated Learning Against False Data Injection Attacks in Energy Forecasting",
+    "venue": "2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "245-249",
+    "type": "proceedings-article",
+    "authors": [
+     "Shabbir",
+     "Manzoor",
+     "Ahmed",
+     "Halim"
+    ]
+   },
+   {
+    "doi": "10.20944/preprints202608.1684.v1",
+    "title": "Cyber-Physical Resilience Against Coordinated False-Data Injection Attacks in Smart Grids",
+    "venue": "",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Fergani"
+    ]
+   },
+   {
+    "doi": "10.22541/au.171605497.72738644/v1",
+    "title": "Enhancing Resilience of LFC Systems Against False Data Injection Attacks via Active Disturbance Rejection Control",
+    "venue": "",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Zheng"
+    ]
+   }
+  ]
+ },
+ "shabbir2024robustness": {
+  "bib_title": "Robustness Against Data Integrity Attacks in Decentralized Federated Load Forecasting",
+  "candidates": [
+   {
+    "doi": "10.3390/electronics13234803",
+    "title": "Robustness Against Data Integrity Attacks in Decentralized Federated Load Forecasting",
+    "venue": "Electronics",
+    "year": 2024,
+    "volume": "13",
+    "issue": "23",
+    "page": "4803",
+    "type": "journal-article",
+    "authors": [
+     "Shabbir",
+     "Manzoor",
+     "Manzoor",
+     "Hussain",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.1016/j.ijforecast.2017.08.004",
+    "title": "Benchmarking robustness of load forecasting models under data integrity attacks",
+    "venue": "International Journal of Forecasting",
+    "year": 2018,
+    "volume": "34",
+    "issue": "1",
+    "page": "89-104",
+    "type": "journal-article",
+    "authors": [
+     "Luo",
+     "Hong",
+     "Fang"
+    ]
+   },
+   {
+    "doi": "10.1016/j.rineng.2025.107246",
+    "title": "A new deep federated learning model with high generalizability for electrical load forecasting against data integrity attacks",
+    "venue": "Results in Engineering",
+    "year": 2025,
+    "volume": "28",
+    "issue": null,
+    "page": "107246",
+    "type": "journal-article",
+    "authors": [
+     "Moradzadeh",
+     "Amjady",
+     "Massoud",
+     "Shah",
+     "Al-Emadi",
+     "Muyeen"
+    ]
+   }
+  ]
+ },
+ "manzoor2025novel": {
+  "bib_title": "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting",
+  "candidates": [
+   {
+    "doi": "10.1109/tsusc.2025.3570096",
+    "title": "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting",
+    "venue": "IEEE Transactions on Sustainable Computing",
+    "year": 2025,
+    "volume": "10",
+    "issue": "5",
+    "page": "1007-1018",
+    "type": "journal-article",
+    "authors": [
+     "Manzoor",
+     "Arshad",
+     "Assaleh",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.174741589.98032276/v1",
+    "title": "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting",
+    "venue": "",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Manzoor",
+     "Arshad",
+     "Assaleh",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.171779422.29509780/v1",
+    "title": "Centralised vs. Decentralised Federated Load Forecasting: Who Holds the Key to Adversarial Attack Robustness?",
+    "venue": "",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Manzoor",
+     "Habib",
+     "Hussain",
+     "Flynn",
+     "Zoha"
+    ]
+   }
+  ]
+ },
+ "manzoor2024survey": {
+  "bib_title": "A Survey of Security Strategies in Federated Learning: Defending Models, Data, and Privacy",
+  "candidates": [
+   {
+    "doi": "10.3390/fi16100374",
+    "title": "A Survey of Security Strategies in Federated Learning: Defending Models, Data, and Privacy",
+    "venue": "Future Internet",
+    "year": 2024,
+    "volume": "16",
+    "issue": "10",
+    "page": "374",
+    "type": "journal-article",
+    "authors": [
+     "Manzoor",
+     "Shabbir",
+     "Chen",
+     "Flynn",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.1201/9781003194538-2",
+    "title": "Federated Learning Role in Big Data, Jot Services and Applications Security, Privacy and Trust in Jot A Survey",
+    "venue": "Trust, Security and Privacy for Big Data",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "28-49",
+    "type": "book-chapter",
+    "authors": [
+     "Yarradoddi",
+     "Gadekallu"
+    ]
+   },
+   {
+    "doi": "10.1007/978-981-19-8692-5_7",
+    "title": "Secure Data Aggregation in Federated Learning",
+    "venue": "Digital Privacy and Security",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "99-107",
+    "type": "book-chapter",
+    "authors": [
+     "Yu",
+     "Cui"
+    ]
+   }
+  ]
+ },
+ "chen2026class": {
+  "bib_title": "Class-Coverage Sampling and Entropy-Weighted Aggregation: A Novel Framework for Tackling Heterogeneity in Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.1109/icmi68585.2026.11539904",
+    "title": "Class-Coverage Sampling and Entropy-Weighted Aggregation: A Novel Framework for Tackling Heterogeneity in Federated Learning",
+    "venue": "2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI)",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": "1-6",
+    "type": "proceedings-article",
+    "authors": [
+     "Chen",
+     "Manzoor",
+     "Hussian",
+     "Mohjazi",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.3390/e28090958",
+    "title": "Kernel-Weighted Aggregation for Hyperparameter-Free Quantum Federated Learning",
+    "venue": "Entropy",
+    "year": 2026,
+    "volume": "28",
+    "issue": "9",
+    "page": "958",
+    "type": "journal-article",
+    "authors": [
+     "Huang"
+    ]
+   },
+   {
+    "doi": "10.1016/j.neucom.2026.134398",
+    "title": "Mitigating data heterogeneity in federated learning via entropy-weighted aggregation",
+    "venue": "Neurocomputing",
+    "year": 2026,
+    "volume": "700",
+    "issue": null,
+    "page": "134398",
+    "type": "journal-article",
+    "authors": [
+     "Zulueta-Doalto",
+     "Zulueta",
+     "Zulueta-Perez",
+     "Lopez-Guede"
+    ]
+   }
+  ]
+ },
+ "manzoor2024centralised": {
+  "bib_title": "Centralised vs.\\ Decentralised Federated Load Forecasting in Smart Buildings: Who Holds the Key to Adversarial Attack Robustness?",
+  "candidates": [
+   {
+    "doi": "10.1016/j.enbuild.2024.114871",
+    "title": "Centralised vs. decentralised federated load forecasting in smart buildings: Who holds the key to adversarial attack robustness?",
+    "venue": "Energy and Buildings",
+    "year": 2024,
+    "volume": "324",
+    "issue": null,
+    "page": "114871",
+    "type": "journal-article",
+    "authors": [
+     "Manzoor",
+     "Hussain",
+     "Flynn",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.171779422.29509780/v1",
+    "title": "Centralised vs. Decentralised Federated Load Forecasting: Who Holds the Key to Adversarial Attack Robustness?",
+    "venue": "",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Manzoor",
+     "Habib",
+     "Hussain",
+     "Flynn",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.173091694.41497219/v1",
+    "title": "Rethinking Federated Learning: An Adversarial Perspective on Global vs. Local Learning for Load Forecasting (Preprint)",
+    "venue": "",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Manzoor",
+     "Shabiar",
+     "Nguyen",
+     "Mohjazi",
+     "Kaushik",
+     "Zoha"
+    ]
+   }
+  ]
+ },
+ "manzoor2024enhanced": {
+  "bib_title": "Enhanced Adversarial Attack Resilience in Energy Networks Through Energy and Privacy Aware Federated Learning",
+  "candidates": [
+   {
+    "doi": "10.36227/techrxiv.171468119.91309905/v1",
+    "title": "Enhanced Adversarial Attack Resilience in Energy Networks through Energy and Privacy Aware Federated Learning",
+    "venue": "",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Manzoor",
+     "Arshad",
+     "Assaleh",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.20944/preprints202310.0998.v1",
+    "title": "A Privacy and Energy-Aware Federated Framework for Human Activity Recognition",
+    "venue": "",
+    "year": 2023,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Khan",
+     "Manzoor",
+     "Ayaz",
+     "Imran",
+     "Zoha"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.175825722.26190757/v1",
+    "title": "Federated Multi-Agent Reinforcement Learning for Privacy-Preserving and Energy-Aware Resource Management in 6G Edge Networks",
+    "venue": "",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "ANDONG",
+     "Min"
+    ]
+   }
+  ]
+ },
+ "bonawitz2017secureagg": {
+  "bib_title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+  "candidates": [
+   {
+    "doi": "10.1145/3133956.3133982",
+    "title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+    "venue": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security",
+    "year": 2017,
+    "volume": null,
+    "issue": null,
+    "page": "1175-1191",
+    "type": "proceedings-article",
+    "authors": [
+     "Bonawitz",
+     "Ivanov",
+     "Kreuter",
+     "Marcedone",
+     "McMahan",
+     "Patel",
+     "Ramage",
+     "Segal"
+    ]
+   },
+   {
+    "doi": "10.1145/3625343.3625344",
+    "title": "Practical and Efficient Secure Aggregation for Privacy-Preserving Machine Learning",
+    "venue": "Proceedings of the 2023 Asia Conference on Artificial Intelligence, Machine Learning and Robotics",
+    "year": 2023,
+    "volume": null,
+    "issue": null,
+    "page": "1-8",
+    "type": "proceedings-article",
+    "authors": [
+     "Zhang",
+     "Li",
+     "Luo",
+     "Wang",
+     "Shen"
+    ]
+   },
+   {
+    "doi": "10.36227/techrxiv.20004140",
+    "title": "FSSA: Efficient 3-Round Secure Aggregation for Privacy-Preserving Federated Learning",
+    "venue": "",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Luo"
+    ]
+   }
+  ]
+ },
+ "fung2018foolsgold": {
+  "bib_title": "Mitigating sybils in federated learning poisoning",
+  "candidates": [
+   {
+    "doi": "10.36227/techrxiv.177203257.75819021/v1",
+    "title": "SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data",
+    "venue": "",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Lu"
+    ]
+   },
+   {
+    "doi": "10.1109/tdsc.2025.3617070/mm1",
+    "title": "Privacy-Preserving Federated Learning Scheme With Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures_supp1-3617070.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "Zhang"
+    ]
+   },
+   {
+    "doi": "10.1109/ssci50451.2021.9659839",
+    "title": "Mitigating Poisoning Attack in Federated Learning",
+    "venue": "2021 IEEE Symposium Series on Computational Intelligence (SSCI)",
+    "year": 2021,
+    "volume": null,
+    "issue": null,
+    "page": "01-07",
+    "type": "proceedings-article",
+    "authors": [
+     "Uprety",
+     "Rawat"
+    ]
+   }
+  ]
+ },
+ "cao2021fltrust": {
+  "bib_title": "Fltrust: Byzantine-robust federated learning via trust bootstrapping",
+  "candidates": [
+   {
+    "doi": "10.14722/ndss.2021.24434",
+    "title": "FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping",
+    "venue": "Proceedings 2021 Network and Distributed System Security Symposium",
+    "year": 2021,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "proceedings-article",
+    "authors": [
+     "Cao",
+     "Fang",
+     "Liu",
+     "Gong"
+    ]
+   },
+   {
+    "doi": "10.1109/cvpr52733.2024.02338",
+    "title": "Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping",
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "24756-24765",
+    "type": "proceedings-article",
+    "authors": [
+     "Sun",
+     "Liu",
+     "Wang",
+     "Liu"
+    ]
+   },
+   {
+    "doi": "10.1109/tifs.2026.3683268/mm1",
+    "title": "Byzantine-Robust Asynchronous Federated Learning via Feature Fingerprinting_supp1-3683268.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "SHEN"
+    ]
+   }
+  ]
+ },
+ "sun2019backdoor": {
+  "bib_title": "Can you really backdoor federated learning?",
+  "candidates": [
+   {
+    "doi": "10.1109/tifs.2025.3639885/mm1",
+    "title": "Catch Me If You Can: Retain High Stealthiness and Durability of Backdoor Attack in Federated Learning_supp1-3639885.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "Liu"
+    ]
+   },
+   {
+    "doi": "10.1109/tai.2025.3630110/mm1",
+    "title": "FUBA: Backdoor Federated Learning via Federated Unlearning_supp1-3630110.pdf",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "component",
+    "authors": [
+     "Sheng"
+    ]
+   },
+   {
+    "doi": "10.1145/3649316",
+    "title": "BapFL: You can Backdoor Personalized Federated Learning",
+    "venue": "ACM Transactions on Knowledge Discovery from Data",
+    "year": 2024,
+    "volume": "18",
+    "issue": "7",
+    "page": "1-17",
+    "type": "journal-article",
+    "authors": [
+     "Ye",
+     "Chen",
+     "Wang",
+     "Li",
+     "Gao"
+    ]
+   }
+  ]
+ },
+ "geyer2017dpfed": {
+  "bib_title": "Differentially private federated learning: A client level perspective",
+  "candidates": [
+   {
+    "doi": "10.1109/isit45174.2021.9517906",
+    "title": "Differentially Private Federated Learning with Shuffling and Client Self-Sampling",
+    "venue": "2021 IEEE International Symposium on Information Theory (ISIT)",
+    "year": 2021,
+    "volume": null,
+    "issue": null,
+    "page": "338-343",
+    "type": "proceedings-article",
+    "authors": [
+     "Girgis",
+     "Data",
+     "Diggavi"
+    ]
+   },
+   {
+    "doi": "10.70675/82339c66za139z4723z8c45zd658a821a36b",
+    "title": "Differentially Private Federated Learning for Bandwidth and Energy Constrained Environments",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "dissertation",
+    "authors": [
+     "Kerkouche"
+    ]
+   },
+   {
+    "doi": "10.1017/9781108966559.020",
+    "title": "Differentially Private Wireless Federated Learning",
+    "venue": "Machine Learning and Wireless Communications",
+    "year": 2022,
+    "volume": null,
+    "issue": null,
+    "page": "486-511",
+    "type": "book-chapter",
+    "authors": []
+   }
+  ]
+ },
+ "wu2020pivot": {
+  "bib_title": "Privacy preserving vertical federated learning for tree-based models",
+  "candidates": [
+   {
+    "doi": "10.14778/3407790.3407811",
+    "title": "Privacy preserving vertical federated learning for tree-based models",
+    "venue": "Proceedings of the VLDB Endowment",
+    "year": 2020,
+    "volume": "13",
+    "issue": "12",
+    "page": "2090-2103",
+    "type": "journal-article",
+    "authors": [
+     "Wu",
+     "Cai",
+     "Xiao",
+     "Chen",
+     "Ooi"
+    ]
+   },
+   {
+    "doi": "10.1142/9789811292552_0004",
+    "title": "Tree-Based Models in Vertical Federated Learning",
+    "venue": "Federated Learning",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "109-125",
+    "type": "book-chapter",
+    "authors": []
+   },
+   {
+    "doi": "10.2139/ssrn.5218407",
+    "title": "Privacy-Preserving Personalized Federated Prompt Learning for Vision-Language Models",
+    "venue": "",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "posted-content",
+    "authors": [
+     "Wu",
+     "Ren",
+     "Huang"
+    ]
+   }
+  ]
+ },
+ "tian2020federboost": {
+  "bib_title": "FederBoost: Private Federated Learning for GBDT",
+  "candidates": [
+   {
+    "doi": "10.1109/tdsc.2023.3276365",
+    "title": "${\\sf FederBoost}$: Private Federated Learning for GBDT",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "year": 2024,
+    "volume": "21",
+    "issue": "3",
+    "page": "1274-1285",
+    "type": "journal-article",
+    "authors": [
+     "Tian",
+     "Zhang",
+     "Hou",
+     "Lyu",
+     "Zhang",
+     "Liu",
+     "Ren"
+    ]
+   },
+   {
+    "doi": "10.14711/thesis-991013319956603412",
+    "title": "Towards private and efficient cross-device federated learning",
+    "venue": "",
+    "year": null,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "dissertation",
+    "authors": [
+     "Jiang"
+    ]
+   },
+   {
+    "doi": "10.1016/b978-0-44-319037-7.00017-x",
+    "title": "Meta-federated learning",
+    "venue": "Federated Learning",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": "161-179",
+    "type": "book-chapter",
+    "authors": [
+     "Aramoon",
+     "Chen",
+     "Qu",
+     "Tian"
+    ]
+   }
+  ]
+ },
+ "wu2025vflpractice": {
+  "bib_title": "Vertical Federated Learning in Practice: The Good, the Bad, and the Ugly",
+  "candidates": [
+   {
+    "doi": "10.58647/rexpo.24004",
+    "title": "The good, the bad, and the ugly: Drug response prediction using machine learning",
+    "venue": "The good, the bad, and the ugly: Drug response prediction using machine learning",
+    "year": 2024,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "proceedings-article",
+    "authors": [
+     "Picciani",
+     "Bernett",
+     "List",
+     "Wilhelm"
+    ]
+   },
+   {
+    "doi": "10.23943/princeton/9780691152776.003.0009",
+    "title": "The Good, the Bad, and the Ugly",
+    "venue": "Monitoring Democracy",
+    "year": 2012,
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "type": "book-chapter",
+    "authors": [
+     "Kelley"
+    ]
+   },
+   {
+    "doi": "10.1093/acprof:oso/9780199600496.003.0045",
+    "title": "Genetics and genomics: good, bad and ugly",
+    "venue": "Neuroscience in EducationThe good, the bad, and the ugly",
+    "year": 2012,
+    "volume": null,
+    "issue": null,
+    "page": "155-173",
+    "type": "book-chapter",
+    "authors": [
+     "Kovas",
+     "Plomin"
+    ]
+   }
+  ]
+ }
+}

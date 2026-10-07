@@ -1,0 +1,6 @@
+[bagging, prediction forgery] malicious_fraction=0.0  test AUC = 0.8910 +/- 0.0044 (trials: ['0.890', '0.894', '0.884', '0.893', '0.894'])
+[bagging, prediction forgery] malicious_fraction=0.1  test AUC = 0.8799 +/- 0.0174 (trials: ['0.883', '0.887', '0.850', '0.885', '0.894'])
+[bagging, prediction forgery] malicious_fraction=0.2  test AUC = 0.8799 +/- 0.0174 (trials: ['0.883', '0.887', '0.850', '0.885', '0.894'])
+[bagging, prediction forgery] malicious_fraction=0.3  test AUC = 0.8236 +/- 0.0689 (trials: ['0.743', '0.875', '0.756', '0.855', '0.889'])
+[bagging, prediction forgery] malicious_fraction=0.4  test AUC = 0.8236 +/- 0.0689 (trials: ['0.743', '0.875', '0.756', '0.855', '0.889'])
+[bagging, prediction forgery] malicious_fraction=0.5  test AUC = 0.3788 +/- 0.2223 (trials: ['0.634', '0.493', '0.137', '0.153', '0.477'])

@@ -1,0 +1,10 @@
+Running leaf misdirection (5 seeds): Adult (Census) ...
+  Adult (Census): frac=0.00 auc=0.8444+/-0.0368  frac=0.10 auc=0.8393+/-0.0348  frac=0.25 auc=0.8376+/-0.0322  frac=0.50 auc=0.7690+/-0.0669  frac=0.75 auc=0.5535+/-0.0648  frac=1.00 auc=0.2383+/-0.0767
+Running leaf misdirection (5 seeds): Heart Disease ...
+  Heart Disease: frac=0.00 auc=0.8526+/-0.0126  frac=0.10 auc=0.8496+/-0.0300  frac=0.25 auc=0.8443+/-0.0085  frac=0.50 auc=0.4683+/-0.2372  frac=0.75 auc=0.1677+/-0.0195  frac=1.00 auc=0.1570+/-0.0468
+Running leaf misdirection (5 seeds): Credit Default ...
+  Credit Default: frac=0.00 auc=0.7194+/-0.0096  frac=0.10 auc=0.7245+/-0.0057  frac=0.25 auc=0.7087+/-0.0331  frac=0.50 auc=0.4588+/-0.1158  frac=0.75 auc=0.3176+/-0.0174  frac=1.00 auc=0.3639+/-0.0314
+
+Saved fig15_leaf_misdirection.png (+ .pdf)
+Suggested caption:
+  Leaf misdirection degrades continuously with the misrouted fraction rather than saturating immediately, the opposite shape from split-flip injection (Figure 1), mean +/- one standard deviation across five seeds, on all three datasets (Adult (Census): honest=0.8444, full=0.2383+/-0.0767; Heart Disease: honest=0.8526, full=0.1570+/-0.0468; Credit Default: honest=0.7194, full=0.3639+/-0.0314).

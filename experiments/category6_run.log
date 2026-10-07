@@ -1,0 +1,17 @@
+he_scale=1.0  misroute=0.00  AUC=0.8695+/-0.0247  (5 seeds)
+he_scale=1.0  misroute=0.15  AUC=0.8643+/-0.0270  (5 seeds)
+he_scale=1.0  misroute=0.30  AUC=0.8523+/-0.0282  (5 seeds)
+he_scale=1.5  misroute=0.00  AUC=0.8427+/-0.0375  (5 seeds)
+he_scale=1.5  misroute=0.15  AUC=0.8344+/-0.0352  (5 seeds)
+he_scale=1.5  misroute=0.30  AUC=0.8367+/-0.0355  (5 seeds)
+he_scale=3.0  misroute=0.00  AUC=0.7611+/-0.0283  (5 seeds)
+he_scale=3.0  misroute=0.15  AUC=0.7599+/-0.0435  (5 seeds)
+he_scale=3.0  misroute=0.30  AUC=0.7173+/-0.0407  (5 seeds)
+
+=== Synergy check (means across 5 seeds) ===
+he=1.5, misroute=0.15: combined cost=0.0352, additive prediction=0.0320, synergy=+0.0031 (SUPER-additive)
+he=1.5, misroute=0.30: combined cost=0.0328, additive prediction=0.0440, synergy=-0.0112 (SUB-additive)
+he=3.0, misroute=0.15: combined cost=0.1096, additive prediction=0.1136, synergy=-0.0040 (SUB-additive)
+he=3.0, misroute=0.30: combined cost=0.1522, additive prediction=0.1256, synergy=+0.0267 (SUPER-additive)
+
+Saved figure to C:\python exp\Fed Tree - Attacks\results\figures\category6_multivector_grid.png

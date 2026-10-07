@@ -1,0 +1,1 @@
+{"auc_h": 0.9033069595944077, "auc_b": 0.9066292825318789, "flip": 0.1559633027522936, "asr_0to1": 0.1807909604519774, "asr_1to0": 0.04878048780487805, "n_target": 218, "clean_disagree": 0.05333333333333334, "clean_disagree_nontarget": 0.044585987261146494, "acc_clean_h": 0.84, "acc_clean_b": 0.84, "nontarget_flip": 0.0}

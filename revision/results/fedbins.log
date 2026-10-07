@@ -1,0 +1,9 @@
+<repo>\revision\experiments\exp_fedbins.py:33: RuntimeWarning: invalid value encountered in scalar divide
+  k: dict(values=v, rel_range=float((max(v) - min(v)) / np.mean(v)), winners=winners[k])
+central margins [10639.811, 10639.811, 10639.811, 10639.811, 10639.811, 10639.811] relative range 0.0
+<repo>\revision\experiments\exp_fedbins.py:36: RuntimeWarning: invalid value encountered in scalar divide
+  print(k, "margins", [round(x, 3) for x in v], "relative range", (max(v) - min(v)) / np.mean(v))
+fed margins [inf, 1888.362, 1888.362, inf, 10467.992, 1888.362] relative range nan
+central clean 0.9098365309217723 one-cell loss (0.0015509894554384118, 0.0004925278914378528, 0.002609451019438971) zero loss (0.0025413154392191716, 0.0014896991577240165, 0.0035929317207143265)
+fed clean 0.9103280924351541 one-cell loss (0.0019476744186046723, 0.0008599570676116953, 0.0030353917695976496) zero loss (0.003069420513402521, 0.0022541455425214756, 0.003884695484283566)
+saved

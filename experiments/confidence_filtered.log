@@ -1,0 +1,5 @@
+=== Confidence-filtered label inference, seed_fraction=20%, 5 trials ===
+  confidence>=0.50 (no filtering): accuracy=0.8129+/-0.0314  coverage_of_nonseed=1.0000+/-0.0000
+  confidence>=0.70 (>=70% vote agreement): accuracy=0.8485+/-0.0362  coverage_of_nonseed=0.8891+/-0.0309
+  confidence>=0.85 (>=85% vote agreement): accuracy=0.8873+/-0.0345  coverage_of_nonseed=0.7482+/-0.0772
+  confidence>=1.00 (>=100% vote agreement): accuracy=0.9234+/-0.0306  coverage_of_nonseed=0.6109+/-0.0709

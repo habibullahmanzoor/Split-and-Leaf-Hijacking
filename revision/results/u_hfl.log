@@ -1,0 +1,57 @@
+clean adult 0.9098
+clean heart 0.8709
+clean credit 0.7601
+count adult 1 0.0088
+count adult 2 0.0088
+count adult 3 0.0088
+count heart 1 0.0134
+count heart 2 0.0171
+count heart 3 0.0173
+count credit 1 -0.0037
+count credit 2 -0.0024
+count credit 3 -0.0024
+count_adult gauss5 1 0.001
+count_adult gauss5 2 0.0015
+count_adult gauss5 3 0.0024
+count_adult zero 1 0.0088
+count_adult zero 2 0.0088
+count_adult zero 3 0.0088
+count_adult one_cell 1 0.0043
+count_adult one_cell 2 0.0043
+count_adult one_cell 3 0.0043
+radius adult 0 0.9073
+radius adult 1 0.9011
+radius adult 2 0.8874
+radius adult 3 0.5542
+radius adult 4 0.5
+radius heart 0 0.8491
+radius heart 1 0.8575
+radius heart 2 0.5565
+radius heart 3 0.6162
+radius credit 0 0.7602
+radius credit 1 0.7638
+radius credit 2 0.7618
+radius credit 3 0.5751
+radius credit 4 0.5315
+federation 5 0.0088
+federation 10 0.0088
+federation 20 0.0088
+federation 40 0.0088
+transient adult {'clean': 0.9098, 'first': 0.91, 'last': 0.9099, 'all': 0.9011}
+transient heart {'clean': 0.8709, 'first': 0.8647, 'last': 0.8695, 'all': 0.8575}
+transient credit {'clean': 0.7601, 'first': 0.7598, 'last': 0.7604, 'all': 0.7638}
+depth 4 0.0088
+depth 6 0.0027
+depth 8 0.0033
+depth 10 0.0025
+boost label shuffle 1 0.0016
+boost label shuffle 2 0.0025
+boost label shuffle 3 0.0074
+bagging clean 0.8993
+bagging shuffle 1 0.0017
+bagging shuffle 2 0.0035
+bagging shuffle 3 0.0139
+bagging forge 1 0.0147
+bagging forge 2 0.1111
+bagging forge 3 0.6387
+saved

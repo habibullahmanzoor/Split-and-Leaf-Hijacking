@@ -1,0 +1,11 @@
+[HFL] n_clients=  5  honest=0.9040  1_malicious=0.8953+/-0.0019
+[HFL] n_clients= 10  honest=0.9040  1_malicious=0.8976+/-0.0006
+[HFL] n_clients= 20  honest=0.9040  1_malicious=0.8967+/-0.0012
+[HFL] n_clients= 40  honest=0.9040  1_malicious=0.8980+/-0.0012
+[VFL] n_passive_parties=1  honest=0.8690  attacked=0.7926+/-0.0223
+[VFL] n_passive_parties=2  honest=0.8690  attacked=0.7926+/-0.0223
+[VFL] n_passive_parties=3  honest=0.8690  attacked=0.7926+/-0.0223
+
+Saved fig14_federation_size_scaling.png (+ .pdf)
+Suggested caption:
+  Neither headline saturation finding is an artifact of this paper's standard federation size, five seeds per point. (a) A single malicious client's damage stays within a narrow band (0.0060 to 0.0087 AUC points) as the horizontal federation grows from 5 to 40 total clients. (b) Category 3's damage is unchanged whether the same feature set is held by one passive party, as everywhere else in this paper, or split across three (0.7926 to 0.7926 attacked accuracy, honest 0.8690 throughout).

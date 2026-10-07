@@ -1,0 +1,62 @@
+clean 0.9098365309217723
+full_zero                  loss=0.0088 CI=0.0073,0.0103 hit=0.6166666666666666 tpr_cons=1.0 tpr_any=1.0 fpr_any=0.12261524822695036
+full_one_cell              loss=0.0043 CI=0.0027,0.0059 hit=0.5516666666666667 tpr_cons=0.675 tpr_any=0.7849999999999999 fpr_any=0.12416666666666665
+limited_x1.0               loss=0.0017 CI=-0.0001,0.0036 hit=0.2833333333333333 tpr_cons=0.625 tpr_any=0.7583333333333334 fpr_any=0.12541666666666668
+limited_x1.5               loss=0.0022 CI=-0.0001,0.0046 hit=0.3616666666666667 tpr_cons=0.6183333333333334 tpr_any=0.76 fpr_any=0.12250000000000001
+limited_x3.0               loss=0.0022 CI=0.0003,0.0041 hit=0.39666666666666667 tpr_cons=0.5716666666666667 tpr_any=0.7233333333333334 fpr_any=0.12416666666666668
+limited_localonly_x1.5     loss=0.0003 CI=-0.0002,0.0008 hit=0.095 tpr_cons=0.625 tpr_any=0.7816666666666666 fpr_any=0.12812324929971988
+cons_pair                  loss=0.0050 CI=0.0037,0.0064 hit=0.7150000000000001 tpr_cons=0.0 tpr_any=0.41000000000000003 fpr_any=0.12312675070028009
+matched_noise              loss=0.0001 CI=-0.0004,0.0006 hit=0.0 tpr_cons=0.67 tpr_any=0.8 fpr_any=0.12875
+matched_random_cell        loss=0.0011 CI=0.0001,0.0020 hit=0.0 tpr_cons=0.6950000000000001 tpr_any=0.8033333333333333 fpr_any=0.12460774058577406
+gauss5                     loss=0.0010 CI=0.0005,0.0015 hit=0.0 tpr_cons=1.0 tpr_any=1.0 fpr_any=0.12857128206931306
+label_flip {'auc_mean': 0.8341665785373806, 'loss': 0.07566995238439159, 'ci': [-0.0795267623450075, 0.23086666711379067]}
+rho=0.05|k=1     loss=-0.0001 CI=-0.0003,0.0001 hit=0.013333333333333332
+rho=0.05|k=2     loss=-0.0001 CI=-0.0007,0.0004 hit=0.02
+rho=0.05|k=3     loss=0.0000 CI=-0.0006,0.0006 hit=0.023333333333333334
+rho=0.05|k=4     loss=-0.0001 CI=-0.0005,0.0004 hit=0.03333333333333333
+rho=0.1|k=1      loss=-0.0001 CI=-0.0006,0.0004 hit=0.041666666666666664
+rho=0.1|k=2      loss=0.0002 CI=-0.0004,0.0008 hit=0.043333333333333335
+rho=0.1|k=3      loss=0.0006 CI=-0.0001,0.0014 hit=0.07333333333333333
+rho=0.1|k=4      loss=0.0009 CI=0.0002,0.0016 hit=0.10166666666666666
+rho=0.25|k=1     loss=0.0008 CI=0.0001,0.0015 hit=0.13166666666666665
+rho=0.25|k=2     loss=0.0015 CI=0.0007,0.0023 hit=0.17333333333333334
+rho=0.25|k=3     loss=0.0018 CI=0.0008,0.0028 hit=0.215
+rho=0.25|k=4     loss=0.0018 CI=0.0007,0.0030 hit=0.20666666666666664
+rho=0.5|k=1      loss=0.0023 CI=0.0008,0.0038 hit=0.25
+rho=0.5|k=2      loss=0.0026 CI=0.0016,0.0036 hit=0.26
+rho=0.5|k=3      loss=0.0030 CI=0.0011,0.0049 hit=0.30833333333333335
+rho=0.5|k=4      loss=0.0025 CI=0.0011,0.0039 hit=0.2983333333333333
+rho=1.0|k=1      loss=0.0028 CI=0.0010,0.0046 hit=0.3366666666666666
+rho=1.0|k=2      loss=0.0031 CI=0.0015,0.0046 hit=0.39
+rho=1.0|k=3      loss=0.0033 CI=0.0013,0.0052 hit=0.3883333333333333
+rho=1.0|k=4      loss=0.0031 CI=0.0013,0.0049 hit=0.40166666666666667
+rho=None|k=1     loss=0.0043 CI=0.0027,0.0059 hit=0.5516666666666667
+rho=None|k=2     loss=0.0043 CI=0.0027,0.0059 hit=0.5516666666666667
+rho=None|k=3     loss=0.0043 CI=0.0027,0.0059 hit=0.55
+rho=None|k=4     loss=0.0043 CI=0.0027,0.0059 hit=0.5516666666666667
+tau=0.10 contig_early   loss=0.0001 CI=-0.0005,0.0007
+tau=0.10 contig_late    loss=0.0002 CI=-0.0002,0.0006
+tau=0.10 contig_middle  loss=0.0006 CI=0.0002,0.0010
+tau=0.10 intermittent   loss=-0.0001 CI=-0.0006,0.0003
+tau=0.10 random         loss=0.0004 CI=-0.0003,0.0011
+tau=0.25 contig_early   loss=0.0012 CI=0.0005,0.0020
+tau=0.25 contig_late    loss=0.0007 CI=0.0002,0.0013
+tau=0.25 contig_middle  loss=0.0010 CI=0.0004,0.0017
+tau=0.25 intermittent   loss=0.0007 CI=0.0002,0.0012
+tau=0.25 random         loss=0.0007 CI=-0.0000,0.0014
+tau=0.50 contig_early   loss=0.0034 CI=0.0022,0.0045
+tau=0.50 contig_late    loss=0.0019 CI=0.0009,0.0029
+tau=0.50 contig_middle  loss=0.0022 CI=0.0015,0.0029
+tau=0.50 intermittent   loss=0.0019 CI=0.0012,0.0027
+tau=0.50 random         loss=0.0024 CI=0.0012,0.0036
+tau=0.75 contig_early   loss=0.0049 CI=0.0040,0.0057
+tau=0.75 contig_late    loss=0.0042 CI=0.0029,0.0055
+tau=0.75 contig_middle  loss=0.0055 CI=0.0041,0.0069
+tau=0.75 intermittent   loss=0.0048 CI=0.0040,0.0056
+tau=0.75 random         loss=0.0048 CI=0.0037,0.0059
+tau=1.00 contig_early   loss=0.0088 CI=0.0073,0.0103
+tau=1.00 contig_late    loss=0.0088 CI=0.0073,0.0103
+tau=1.00 contig_middle  loss=0.0088 CI=0.0073,0.0103
+tau=1.00 intermittent   loss=0.0088 CI=0.0073,0.0103
+tau=1.00 random         loss=0.0088 CI=0.0073,0.0103
+saved

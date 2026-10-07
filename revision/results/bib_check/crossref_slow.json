@@ -1,0 +1,3621 @@
+{
+ "shokri2017membership": {
+  "bib_title": "Membership Inference Attacks Against Machine Learning Models",
+  "items": [
+   {
+    "DOI": "10.1109/sp.2017.41",
+    "title": [
+     "Membership Inference Attacks Against Machine Learning Models"
+    ],
+    "container-title": [
+     "2017 IEEE Symposium on Security and Privacy (SP)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       5
+      ]
+     ]
+    },
+    "page": "3-18",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Reza",
+      "family": "Shokri",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Marco",
+      "family": "Stronati",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Congzheng",
+      "family": "Song",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vitaly",
+      "family": "Shmatikov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1145/3548606.3560675",
+    "title": [
+     "Enhanced Membership Inference Attacks against Machine Learning Models"
+    ],
+    "container-title": [
+     "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       11,
+       7
+      ]
+     ]
+    },
+    "page": "3093-3106",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Jiayuan",
+      "family": "Ye",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "National University of Singapore (NUS), Singapore, Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Aadyaa",
+      "family": "Maddi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National University of Singapore (NUS), Singapore, Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sasi Kumar",
+      "family": "Murakonda",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Privitar Labs, London, United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vincent",
+      "family": "Bindschaedler",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Florida, Gainesville, FL, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Reza",
+      "family": "Shokri",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National University of Singapore (NUS), Singapore, Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "issue": "3",
+    "DOI": "10.32604/cmc.2022.019709",
+    "type": "journal-article",
+    "page": "4897-4919",
+    "title": [
+     "Towards Securing Machine Learning Models Against Membership Inference Attacks"
+    ],
+    "volume": "70",
+    "author": [
+     {
+      "given": "Sana",
+      "family": "Ben Hamida",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Hichem",
+      "family": "Mrabet",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sana",
+      "family": "Belguith",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Adeeb",
+      "family": "Alhomoud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Abderrazak",
+      "family": "Jemai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Computers, Materials &amp; Continua"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "luo2021feature": {
+  "bib_title": "Feature Inference Attack on Model Predictions in Vertical Federated Learning",
+  "items": [
+   {
+    "DOI": "10.1109/icde51399.2021.00023",
+    "title": [
+     "Feature Inference Attack on Model Predictions in Vertical Federated Learning"
+    ],
+    "container-title": [
+     "2021 IEEE 37th International Conference on Data Engineering (ICDE)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       4
+      ]
+     ]
+    },
+    "page": "181-192",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Xinjian",
+      "family": "Luo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yuncheng",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xiaokui",
+      "family": "Xiao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Beng Chin",
+      "family": "Ooi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/icme57554.2024.10687832",
+    "title": [
+     "FIA-TE: Feature Inference Attack on Decision Tree Ensembles in Vertical Federated Learning"
+    ],
+    "container-title": [
+     "2024 IEEE International Conference on Multimedia and Expo (ICME)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       15
+      ]
+     ]
+    },
+    "page": "1-6",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Xiaolin",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Institute of Software,Chinese Academy of Sciences,Beijing,China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Daoguang",
+      "family": "Zan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Software,Chinese Academy of Sciences,Beijing,China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Wei",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Software,Chinese Academy of Sciences,Beijing,China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bei",
+      "family": "Guan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Software,Chinese Academy of Sciences,Beijing,China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yongji",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Software,Chinese Academy of Sciences,Beijing,China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "issue": "1",
+    "DOI": "10.1109/jiot.2023.3275161",
+    "type": "journal-article",
+    "page": "5-16",
+    "title": [
+     "Practical Feature Inference Attack in Vertical Federated Learning During Prediction in Artificial Internet of Things"
+    ],
+    "volume": "11",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7621-270X",
+      "authenticated-orcid": false,
+      "given": "Ruikang",
+      "family": "Yang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4251-1143",
+      "authenticated-orcid": false,
+      "given": "Jianfeng",
+      "family": "Ma",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0764-3741",
+      "authenticated-orcid": false,
+      "given": "Junying",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4929-5383",
+      "authenticated-orcid": false,
+      "given": "Saru",
+      "family": "Kumari",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Mathematics, Chaudhary Charan Singh University, Meerut, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5324-2156",
+      "authenticated-orcid": false,
+      "given": "Sachin",
+      "family": "Kumar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Computer Science and Engineering, Ajay Kumar Garg Engineering College, Ghaziabad, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8657-3800",
+      "authenticated-orcid": false,
+      "given": "Joel J. P. C.",
+      "family": "Rodrigues",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Computer Science and Technology, China University of Petroleum (East China), Qingdao, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "IEEE Internet of Things Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       1
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "bonawitz2017secureagg": {
+  "bib_title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+  "items": [
+   {
+    "DOI": "10.1145/3133956.3133982",
+    "title": [
+     "Practical Secure Aggregation for Privacy-Preserving Machine Learning"
+    ],
+    "container-title": [
+     "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       10,
+       30
+      ]
+     ]
+    },
+    "page": "1175-1191",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Keith",
+      "family": "Bonawitz",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vladimir",
+      "family": "Ivanov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ben",
+      "family": "Kreuter",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Antonio",
+      "family": "Marcedone",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Cornell Tech &amp; Google Inc., New York, NY, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "H. Brendan",
+      "family": "McMahan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sarvar",
+      "family": "Patel",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Daniel",
+      "family": "Ramage",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Aaron",
+      "family": "Segal",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Karn",
+      "family": "Seth",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Google Inc., Mountain View, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1145/3625343.3625344",
+    "title": [
+     "Practical and Efficient Secure Aggregation for Privacy-Preserving Machine Learning"
+    ],
+    "container-title": [
+     "Proceedings of the 2023 Asia Conference on Artificial Intelligence, Machine Learning and Robotics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       15
+      ]
+     ]
+    },
+    "page": "1-8",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0009-7017-3955",
+      "authenticated-orcid": false,
+      "given": "Yuqi",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "East China Normal University, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-8494-9189",
+      "authenticated-orcid": false,
+      "given": "Xiangyang",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Shandong Luruan Digital Technology Co., Ltd., China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0005-0564-9065",
+      "authenticated-orcid": false,
+      "given": "Qingcai",
+      "family": "Luo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Inspur Academy of Science and Technology, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0006-6370-0858",
+      "authenticated-orcid": false,
+      "given": "Yang",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Inspur Academy of Science and Technology, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2657-3723",
+      "authenticated-orcid": false,
+      "given": "Yanzhao",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Shandong Institute of Blockchain, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/acsac63791.2024.00069",
+    "title": [
+     "Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning"
+    ],
+    "container-title": [
+     "2024 Annual Computer Security Applications Conference (ACSAC)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       9
+      ]
+     ]
+    },
+    "page": "778-793",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Rouzbeh",
+      "family": "Behnia",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of South Florida"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Arman",
+      "family": "Riasi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Virginia Tech"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Reza",
+      "family": "Ebrahimi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of South Florida"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sherman S. M.",
+      "family": "Chow",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "The Chinese University of Hong Kong"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Balaji",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Maryland,College Park"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Thang",
+      "family": "Hoang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Virginia Tech"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wu2020pivot": {
+  "bib_title": "Privacy preserving vertical federated learning for tree-based models",
+  "items": [
+   {
+    "issue": "12",
+    "DOI": "10.14778/3407790.3407811",
+    "type": "journal-article",
+    "page": "2090-2103",
+    "title": [
+     "Privacy preserving vertical federated learning for tree-based models"
+    ],
+    "volume": "13",
+    "author": [
+     {
+      "given": "Yuncheng",
+      "family": "Wu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "National University of Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shaofeng",
+      "family": "Cai",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National University of Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xiaokui",
+      "family": "Xiao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National University of Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Gang",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Zhejiang University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Beng Chin",
+      "family": "Ooi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National University of Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Proceedings of the VLDB Endowment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       7
+      ]
+     ]
+    }
+   },
+   {
+    "DOI": "10.1007/978-3-030-96896-0_18",
+    "title": [
+     "Privacy-Preserving Vertical Federated Learning"
+    ],
+    "container-title": [
+     "Federated Learning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    },
+    "page": "417-438",
+    "type": "book-chapter",
+    "author": [
+     {
+      "given": "Runhua",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nathalie",
+      "family": "Baracaldo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yi",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Annie",
+      "family": "Abay",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ali",
+      "family": "Anwar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1007/978-981-97-5498-4_30",
+    "title": [
+     "ReVFed: Representation-Based Privacy-Preserving Vertical Federated Learning with\u00a0Heterogeneous Models"
+    ],
+    "container-title": [
+     "Lecture Notes in Computer Science",
+     "Knowledge Science, Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "page": "386-397",
+    "type": "book-chapter",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0006-5388-2774",
+      "authenticated-orcid": false,
+      "given": "Shuo",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-3966-511X",
+      "authenticated-orcid": false,
+      "given": "Jing",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6784-0221",
+      "authenticated-orcid": false,
+      "given": "Keke",
+      "family": "Gai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3277-3887",
+      "authenticated-orcid": false,
+      "given": "Liehuang",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "manzoor2022fedclamp": {
+  "bib_title": "FedClamp: An Algorithm for Identification of Anomalous Client in Federated Learning",
+  "items": [
+   {
+    "DOI": "10.1109/icecs202256217.2022.9970909",
+    "title": [
+     "FedClamp: An Algorithm for Identification of Anomalous Client in Federated Learning"
+    ],
+    "container-title": [
+     "2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       24
+      ]
+     ]
+    },
+    "page": "1-4",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Muhammed Shahzeb",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business Administration, Muhammad Ali Jinnah University,Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahsan Raza",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Fahad",
+      "family": "Ayaz",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "David",
+      "family": "Flynn",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Muhammad Ali",
+      "family": "Imran",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1007/978-3-031-87639-4_8",
+    "title": [
+     "Anomalous Client Detection in\u00a0Federated Learning"
+    ],
+    "container-title": [
+     "Studies in Computational Intelligence",
+     "Intelligent Distributed Computing XVII"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "page": "123-134",
+    "type": "book-chapter",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-2895-1425",
+      "authenticated-orcid": false,
+      "given": "Dipanwita",
+      "family": "Thakur",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3159-0536",
+      "authenticated-orcid": false,
+      "given": "Antonella",
+      "family": "Guzzo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4039-891X",
+      "authenticated-orcid": false,
+      "given": "Giancarlo",
+      "family": "Fortino",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1007/978-3-031-65123-6_8",
+    "title": [
+     "Federated Learning Optimization Algorithm Based on\u00a0Dynamic Client Scale"
+    ],
+    "container-title": [
+     "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",
+     "Quality, Reliability, Security and Robustness in Heterogeneous Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "page": "109-117",
+    "type": "book-chapter",
+    "author": [
+     {
+      "given": "Luya",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Wenliang",
+      "family": "Feng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ruoheng",
+      "family": "Luo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "manzoor2023defending": {
+  "bib_title": "Defending Federated Learning from Backdoor Attacks: Anomaly-Aware FedAvg with Layer-Based Aggregation",
+  "items": [
+   {
+    "DOI": "10.1109/pimrc56721.2023.10293950",
+    "title": [
+     "Defending Federated Learning from Backdoor Attacks: Anomaly-Aware FedAVG with Layer-Based Aggregation"
+    ],
+    "container-title": [
+     "2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       5
+      ]
+     ]
+    },
+    "page": "1-6",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahsan Raza",
+      "family": "Khan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tahir",
+      "family": "Sher",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Air University,Faculty of Computing and Artificial Intelligence,Department of Creative Technologies,Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Wasim",
+      "family": "Ahmad",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1016/j.neunet.2024.107016",
+    "title": [
+     "FedPD: Defending federated prototype learning against backdoor attacks"
+    ],
+    "container-title": [
+     "Neural Networks"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4
+      ]
+     ]
+    },
+    "volume": "184",
+    "page": "107016",
+    "type": "journal-article",
+    "author": [
+     {
+      "given": "Zhou",
+      "family": "Tan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1575-8239",
+      "authenticated-orcid": false,
+      "given": "Jianping",
+      "family": "Cai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0008-0202-4723",
+      "authenticated-orcid": false,
+      "given": "De",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Puwei",
+      "family": "Lian",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4238-3295",
+      "authenticated-orcid": false,
+      "given": "Ximeng",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yan",
+      "family": "Che",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/icc45041.2023.10279267",
+    "title": [
+     "Towards Defending Adaptive Backdoor Attacks in Federated Learning"
+    ],
+    "container-title": [
+     "ICC 2023 - IEEE International Conference on Communications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       28
+      ]
+     ]
+    },
+    "page": "5078-5084",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Han",
+      "family": "Yang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Essex,Department of Computer science and Electronic Engineering,Essex,UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dongbing",
+      "family": "Gu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Essex,Department of Computer science and Electronic Engineering,Essex,UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jianhua",
+      "family": "He",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Essex,Department of Computer science and Electronic Engineering,Essex,UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "shabbir2024resilience": {
+  "bib_title": "Resilience of Federated Learning Against False Data Injection Attacks in Energy Forecasting",
+  "items": [
+   {
+    "DOI": "10.1109/gecost60902.2024.10475064",
+    "title": [
+     "Resilience of Federated Learning Against False Data Injection Attacks in Energy Forecasting"
+    ],
+    "container-title": [
+     "2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       17
+      ]
+     ]
+    },
+    "page": "245-249",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Attia",
+      "family": "Shabbir",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "GIK Institute of Engg. Sciences &#x0026; Tech.,Faculty of Computer Science &#x0026; Engg.,Topi,Pakistan,23640"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ridha Alaa",
+      "family": "Ahmed",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Kufa,Department of Electronics and Communication Engineering,Najaf,Iraq"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Zahid",
+      "family": "Halim",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "GIK Institute of Engg. Sciences &#x0026; Tech.,Faculty of Computer Science &#x0026; Engg.,Topi,Pakistan,23640"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/pesgm.2016.7741850",
+    "title": [
+     "Power grid resilience against false data injection attacks"
+    ],
+    "container-title": [
+     "2016 IEEE Power and Energy Society General Meeting (PESGM)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       7
+      ]
+     ]
+    },
+    "page": "1-5",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Jun",
+      "family": "Yan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yufei",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "family": "Bo Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Haibo",
+      "family": "He",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yan",
+      "family": "Sun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/eeeic/icpseurope61470.2024.10751090",
+    "title": [
+     "Securing AGC Systems Against False Data Injection Attacks Using Federated Learning and Model Predictive Control"
+    ],
+    "container-title": [
+     "2024 IEEE International Conference on Environment and Electrical Engineering and 2024 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&amp;amp;CPS Europe)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       17
+      ]
+     ]
+    },
+    "page": "01-06",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Mohammad",
+      "family": "Mahdi Soleymani",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Concordia Institute for Information Systems Engineering, Concordia University,Montreal,Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Masoud",
+      "family": "Babaei Vavdareh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Concordia Institute for Information Systems Engineering, Concordia University,Montreal,Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mohsen",
+      "family": "Ghafouri",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Concordia Institute for Information Systems Engineering, Concordia University,Montreal,Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Chadi",
+      "family": "Assi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Concordia Institute for Information Systems Engineering, Concordia University,Montreal,Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "shabbir2024robustness": {
+  "bib_title": "Robustness Against Data Integrity Attacks in Decentralized Federated Load Forecasting",
+  "items": [
+   {
+    "issue": "23",
+    "DOI": "10.3390/electronics13234803",
+    "type": "journal-article",
+    "page": "4803",
+    "title": [
+     "Robustness Against Data Integrity Attacks in Decentralized Federated Load Forecasting"
+    ],
+    "volume": "13",
+    "author": [
+     {
+      "given": "Attia",
+      "family": "Shabbir",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Computer Science, Ghulam Ishaq Khan Institute, Topi 23640, Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       },
+       {
+        "name": "Department of Electrical Engineering, University of Engineering and Technology, Lahore 38000, Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Muhmmand Naisr",
+      "family": "Manzoor",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National Center for Physics, Islamabad 44000, Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1802-9728",
+      "authenticated-orcid": false,
+      "given": "Sajjad",
+      "family": "Hussain",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7497-9336",
+      "authenticated-orcid": false,
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Electronics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       5
+      ]
+     ]
+    }
+   },
+   {
+    "issue": "1",
+    "DOI": "10.1016/j.ijforecast.2017.08.004",
+    "type": "journal-article",
+    "page": "89-104",
+    "title": [
+     "Benchmarking robustness of load forecasting models under data integrity attacks"
+    ],
+    "volume": "34",
+    "author": [
+     {
+      "given": "Jian",
+      "family": "Luo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tao",
+      "family": "Hong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shu-Cherng",
+      "family": "Fang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "International Journal of Forecasting"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       1
+      ]
+     ]
+    }
+   },
+   {
+    "DOI": "10.1016/j.rineng.2025.107246",
+    "title": [
+     "A new deep federated learning model with high generalizability for electrical load forecasting against data integrity attacks"
+    ],
+    "container-title": [
+     "Results in Engineering"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12
+      ]
+     ]
+    },
+    "volume": "28",
+    "page": "107246",
+    "type": "journal-article",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-2557-1307",
+      "authenticated-orcid": false,
+      "given": "Arash",
+      "family": "Moradzadeh",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1308-1738",
+      "authenticated-orcid": false,
+      "given": "Nima",
+      "family": "Amjady",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9343-469X",
+      "authenticated-orcid": false,
+      "given": "Ahmed M.",
+      "family": "Massoud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rakibuzzaman",
+      "family": "Shah",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Naser",
+      "family": "Al-Emadi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4955-6889",
+      "authenticated-orcid": false,
+      "given": "S.M.",
+      "family": "Muyeen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "manzoor2025novel": {
+  "bib_title": "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting",
+  "items": [
+   {
+    "DOI": "10.36227/techrxiv.174741589.98032276/v1",
+    "title": [
+     "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       16
+      ]
+     ]
+    },
+    "type": "posted-content",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kamran",
+      "family": "Arshad",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Electrical and Computer Engineering, College of Engineering and Information Technology, Ajman University"
+       },
+       {
+        "name": "Artificial Intelligence Research Centre, Ajman University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Khaled",
+      "family": "Assaleh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Electrical and Computer Engineering, College of Engineering and Information Technology, Ajman University"
+       },
+       {
+        "name": "Artificial Intelligence Research Centre, Ajman University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "issue": "5",
+    "DOI": "10.1109/tsusc.2025.3570096",
+    "type": "journal-article",
+    "page": "1007-1018",
+    "title": [
+     "Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting"
+    ],
+    "volume": "10",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow, U.K."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4447-8335",
+      "authenticated-orcid": false,
+      "given": "Kamran",
+      "family": "Arshad",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Electrical and Computer Engineering, College of Engineering and Information Technology, Ajman University, Ajman, UAE"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0942-0453",
+      "authenticated-orcid": false,
+      "given": "Khaled",
+      "family": "Assaleh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Electrical and Computer Engineering, College of Engineering and Information Technology, Ajman University, Ajman, UAE"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7497-9336",
+      "authenticated-orcid": false,
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow, U.K."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "IEEE Transactions on Sustainable Computing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9
+      ]
+     ]
+    }
+   },
+   {
+    "DOI": "10.52202/075280-2370",
+    "title": [
+     "Incentivized Communication for Federated Bandits"
+    ],
+    "container-title": [
+     "Advances in Neural Information Processing Systems 36"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "page": "54399-54420",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Zhepei",
+      "family": "Wei",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Chuanhao",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Haifeng",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hongning",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "manzoor2024survey": {
+  "bib_title": "A Survey of Security Strategies in Federated Learning: Defending Models, Data, and Privacy",
+  "items": [
+   {
+    "issue": "10",
+    "DOI": "10.3390/fi16100374",
+    "type": "journal-article",
+    "page": "374",
+    "title": [
+     "A Survey of Security Strategies in Federated Learning: Defending Models, Data, and Privacy"
+    ],
+    "volume": "16",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Attia",
+      "family": "Shabbir",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Computer Science, Ghulam Ishaq Khan Institute, Topi 23640, Pakistan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ao",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1024-3618",
+      "authenticated-orcid": false,
+      "given": "David",
+      "family": "Flynn",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7497-9336",
+      "authenticated-orcid": false,
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Future Internet"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       15
+      ]
+     ]
+    }
+   },
+   {
+    "issue": "19",
+    "DOI": "10.3390/app12199901",
+    "type": "journal-article",
+    "page": "9901",
+    "title": [
+     "Privacy and Security in Federated Learning: A Survey"
+    ],
+    "volume": "12",
+    "author": [
+     {
+      "given": "R\u00e9mi",
+      "family": "Gosselin",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Polytech Annecy-Chamb\u00e9ry, Savoie Mont Blanc University, F-74944 Annecy, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lo\u00efc",
+      "family": "Vieu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Polytech Annecy-Chamb\u00e9ry, Savoie Mont Blanc University, F-74944 Annecy, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4753-060X",
+      "authenticated-orcid": false,
+      "given": "Faiza",
+      "family": "Loukil",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "LISTIC, Savoie Mont Blanc University, F-74944 Annecy, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0627-4948",
+      "authenticated-orcid": false,
+      "given": "Alexandre",
+      "family": "Benoit",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "LISTIC, Savoie Mont Blanc University, F-74944 Annecy, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Applied Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       1
+      ]
+     ]
+    }
+   },
+   {
+    "issue": "2",
+    "DOI": "10.17352/tcsit.000066",
+    "type": "journal-article",
+    "page": "029-037",
+    "title": [
+     "Security and privacy in federated learning: A survey"
+    ],
+    "volume": "8",
+    "author": [
+     {
+      "given": "Dasaradharami Reddy",
+      "family": "Kandati",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "S",
+      "family": "Anusha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "Trends in Computer Science and Information Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       16
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "chen2026class": {
+  "bib_title": "Class-Coverage Sampling and Entropy-Weighted Aggregation: A Novel Framework for Tackling Heterogeneity in Federated Learning",
+  "items": [
+   {
+    "DOI": "10.1109/icmi68585.2026.11539904",
+    "title": [
+     "Class-Coverage Sampling and Entropy-Weighted Aggregation: A Novel Framework for Tackling Heterogeneity in Federated Learning"
+    ],
+    "container-title": [
+     "2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       9
+      ]
+     ]
+    },
+    "page": "1-6",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Ao",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sajjad",
+      "family": "Hussian",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lina",
+      "family": "Mohjazi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Glasgow,James Watt School of Engineering,Glasgow,United Kingdom"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1016/j.neucom.2026.134398",
+    "title": [
+     "Mitigating data heterogeneity in federated learning via entropy-weighted aggregation"
+    ],
+    "container-title": [
+     "Neurocomputing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       11
+      ]
+     ]
+    },
+    "volume": "700",
+    "page": "134398",
+    "type": "journal-article",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0002-6445-7862",
+      "authenticated-orcid": false,
+      "given": "Asier",
+      "family": "Zulueta-Doalto",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6062-9343",
+      "authenticated-orcid": false,
+      "given": "Ekaitz",
+      "family": "Zulueta",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0007-9064-0130",
+      "authenticated-orcid": false,
+      "given": "Mikel",
+      "family": "Zulueta-Perez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5310-1601",
+      "authenticated-orcid": false,
+      "given": "Jose Manuel",
+      "family": "Lopez-Guede",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1145/3636534.3690665",
+    "title": [
+     "ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues"
+    ],
+    "container-title": [
+     "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       4
+      ]
+     ]
+    },
+    "page": "845-860",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5065-2600",
+      "authenticated-orcid": false,
+      "given": "Yunming",
+      "family": "Liao",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Science and Technology of China, Suzhou, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0839-3892",
+      "authenticated-orcid": false,
+      "given": "Yang",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Science and Technology of China, Suzhou, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3831-4577",
+      "authenticated-orcid": false,
+      "given": "Hongli",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Science and Technology of China, Suzhou, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0007-2284-3323",
+      "authenticated-orcid": false,
+      "given": "Zhiwei",
+      "family": "Yao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Science and Technology of China, Suzhou, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8417-3256",
+      "authenticated-orcid": false,
+      "given": "Liusheng",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Science and Technology of China, Suzhou, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4679-6572",
+      "authenticated-orcid": false,
+      "given": "Chunming",
+      "family": "Qiao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "SUNY at Buffalo, New York, US"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "manzoor2024centralised": {
+  "bib_title": "Centralised vs. Decentralised Federated Load Forecasting in Smart Buildings: Who Holds the Key to Adversarial Attack Robustness?",
+  "items": [
+   {
+    "DOI": "10.1016/j.enbuild.2024.114871",
+    "title": [
+     "Centralised vs. decentralised federated load forecasting in smart buildings: Who holds the key to adversarial attack robustness?"
+    ],
+    "container-title": [
+     "Energy and Buildings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12
+      ]
+     ]
+    },
+    "volume": "324",
+    "page": "114871",
+    "type": "journal-article",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1802-9728",
+      "authenticated-orcid": false,
+      "given": "Sajjad",
+      "family": "Hussain",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "David",
+      "family": "Flynn",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.36227/techrxiv.171779422.29509780/v1",
+    "title": [
+     "Centralised vs. Decentralised Federated Load Forecasting: Who Holds the Key to Adversarial Attack Robustness?"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       7
+      ]
+     ]
+    },
+    "type": "posted-content",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ullah",
+      "family": "Habib",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sajjad",
+      "family": "Hussain",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "David",
+      "family": "Flynn",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Amed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "James Watt School of Engineering, University of Glasgow"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "issue": "13",
+    "DOI": "10.1016/j.ifacol.2019.11.399",
+    "type": "journal-article",
+    "page": "1427-1431",
+    "title": [
+     "POLCA: Centralised vs. Decentralised Job Release"
+    ],
+    "volume": "52",
+    "author": [
+     {
+      "given": "Nuno O.",
+      "family": "Fernandes",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Matthias",
+      "family": "Th\u00fcrer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Lu\u00eds Pinto",
+      "family": "Ferreira",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "S.",
+      "family": "Carmo-Silva",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "IFAC-PapersOnLine"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "manzoor2024enhanced": {
+  "bib_title": "Enhanced Adversarial Attack Resilience in Energy Networks Through Energy and Privacy Aware Federated Learning",
+  "items": [
+   {
+    "DOI": "10.36227/techrxiv.171468119.91309905/v1",
+    "title": [
+     "Enhanced Adversarial Attack Resilience in Energy Networks through Energy and Privacy Aware Federated Learning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       2
+      ]
+     ]
+    },
+    "type": "posted-content",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0192-7353",
+      "authenticated-orcid": false,
+      "given": "Habib Ullah",
+      "family": "Manzoor",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kamran",
+      "family": "Arshad",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Khaled",
+      "family": "Assaleh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ahmed",
+      "family": "Zoha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "issue": "4",
+    "DOI": "10.1109/tetci.2024.3502434",
+    "type": "journal-article",
+    "page": "2818-2829",
+    "title": [
+     "Privacy-Enhanced Federated GNN Inference Against Adversarial Example Attack"
+    ],
+    "volume": "9",
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1004-2875",
+      "authenticated-orcid": false,
+      "given": "Guanghui",
+      "family": "He",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4510-7883",
+      "authenticated-orcid": false,
+      "given": "Yanli",
+      "family": "Ren",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jingyuan",
+      "family": "Jiang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8249-2608",
+      "authenticated-orcid": false,
+      "given": "Guorui",
+      "family": "Feng",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-5867-1315",
+      "authenticated-orcid": false,
+      "given": "Xinpeng",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "container-title": [
+     "IEEE Transactions on Emerging Topics in Computational Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8
+      ]
+     ]
+    }
+   },
+   {
+    "DOI": "10.1109/vtc2024-spring62846.2024.10683148",
+    "title": [
+     "Privacy Preserving Energy-Aware Federated Learning Based Method for Energy Theft Detection"
+    ],
+    "container-title": [
+     "2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       24
+      ]
+     ]
+    },
+    "page": "1-7",
+    "type": "proceedings-article",
+    "author": [
+     {
+      "given": "Zunaira",
+      "family": "Nadeem",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Electronic Engineering and Computer Science, Queen Mary University of London,London,UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mona",
+      "family": "Jaber",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Electronic Engineering and Computer Science, Queen Mary University of London,London,UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
