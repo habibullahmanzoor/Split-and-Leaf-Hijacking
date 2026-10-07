@@ -15,7 +15,7 @@ Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Fede
 - **Leaf hijacking** — after an honest split is chosen, a passive party returns false left/right routing decisions for a chosen fraction of samples. This changes *which leaf value a sample ends up with*, without touching split selection at all.
 - A **label-free prediction-disruption mechanism**: a VFL passive party can plant a split on its own feature and, at inference time, move a chosen input across that threshold to flip its prediction — without ever seeing a label.
 
-**What we found.** A single attacker at a modest, bounded reach (one node and its two children) causes only a small AUC drop on the datasets we test; the effect grows sharply with how much of the tree the attacker can corrupt, and full-tree coverage can collapse a model to a constant predictor. An attacker who sees nothing but its own report still does real damage, just less of it. A per-client bound on report size (a simple, practical defense) restores the usual "you need several colluders" property that unrestricted reporting removes. We also test whether simple integrity checks (conservation, magnitude, norm) catch these attacks, and show a variant that is tuned to pass a conservation check while keeping most of its effect. Full numbers, confidence intervals and the scope of every claim are in the paper (`paper/paper.tex`) and the reproduction instructions below.
+**What we found.** A single attacker at a modest, bounded reach (one node and its two children) causes only a small AUC drop on the datasets we test; the effect grows sharply with how much of the tree the attacker can corrupt, and full-tree coverage can collapse a model to a constant predictor. An attacker who sees nothing but its own report still does real damage, just less of it. A per-client bound on report size (a simple, practical defense) restores the usual "you need several colluders" property that unrestricted reporting removes. We also test whether simple integrity checks (conservation, magnitude, norm) catch these attacks, and show a variant that is tuned to pass a conservation check while keeping most of its effect. Full numbers, confidence intervals and the scope of every claim are in the paper and the reproduction instructions below.
 
 ## Layout
 
@@ -28,7 +28,6 @@ Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Fede
 | `experiments/` | Every script behind a number, figure or table in the paper: the attack sweeps (`unified.py`, `rev_common.py`, `rev_attacks.py`, `exp_*.py`), the figure scripts (`make_figures.py`, `make_figures_u.py`, `paper_figures/`) and the shared utilities they import (`plotstyle.py`, `attack_category1_sweep.py`, `theory_margin_generalization.py`). |
 | `results/` | JSON results and logs for every experiment, plus `vfl_cache/` and `vfl_u_cache/`, the per-task caches that make the Paillier experiments resumable. |
 | `figures/` | Every figure used by the paper, as PDF and PNG. |
-| `paper/` | The manuscript text (`paper.tex`) and bibliography (`ref.bib`). |
 
 ## Setup
 
