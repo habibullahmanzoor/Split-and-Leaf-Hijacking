@@ -1,9 +1,0 @@
-[HFL cat1 naive] [(0.0, '0.9040'), (0.2, '0.9018'), (0.4, '0.9024'), (0.6, '0.9018')]
-[HFL cat1 margin_aware] [(0.0, '0.9040'), (0.2, '0.8953'), (0.4, '0.8965'), (0.6, '0.8944')]
-[VFL cat3] [(1.0, '0.8690'), (2.0, '0.7926'), (5.0, '0.7926'), (10.0, '0.7926'), (50.0, '0.7926'), (200.0, '0.7926')]
-[RF control] [(0.0, '0.8893'), (0.2, '0.8866'), (0.4, '0.8852'), (0.6, '0.8728')]
-[label-shuffle+boosting] [(0.0, '0.9040'), (0.2, '0.9007'), (0.4, '0.9005'), (0.6, '0.8931')]
-
-Saved fig1_saturation.png (+ .pdf)
-Suggested caption:
-  Damage saturates at a single attacker under discrete-argmax aggregation in both HFL ((a): 0.9040\to0.8953 at one malicious client of five) and VFL ((b): 0.8690\to0.7926 at the first tested scale factor). The same label-shuffle attack, held fixed across (c) and (d), isolates the aggregation mechanism from the attack type: under bagging (c), damage grows steadily with each added colluder (0.0027 drop at one malicious client to 0.0165 at three); under boosting (d), a second colluder adds almost nothing beyond the first (0.0033 at one, versus 0.0033 to 0.0109 through three), the same flattening tendency as (a) and (b) but far smaller in magnitude, since label-shuffle is a far blunter corruption than targeted histogram forgery.

@@ -1,7 +1,0 @@
-adult: honest=0.9040  depth1=0.8965+/-0.0010  depth2=0.8856+/-0.0019  depth3=0.7765+/-0.0225  depth4=0.5000+/-0.0000
-credit_default: honest=0.7423  depth1=0.7365+/-0.0063  depth2=0.7398+/-0.0085  depth3=0.6967+/-0.0155  depth4=0.5000+/-0.0000
-heart_disease: honest=0.8694  depth1=0.8364+/-0.0123  depth2=0.7032+/-0.0492  depth3=0.4546+/-0.0438
-
-Saved fig12_attack_depth_scoping.png (+ .pdf)
-Suggested caption:
-  The paper's headline category 1 magnitude (attack\_max\_depth=1, root node only) is a measurement at a specific, conservative attack radius, not the mechanism's damage ceiling, on any dataset: extending coverage to every node collapses Adult and Credit Default to exactly random guessing (Adult 0.8965$\to$0.5000, Credit Default 0.7365$\to$0.5000, zero variance across 5 seeds at full coverage) and Heart Disease below it (0.8364$\to$0.4546$\pm$0.0438, an overshoot we attribute to its roughly sixty row test set rather than a different mechanism). Credit Default's apparent non-generalization at depth 1 is this same scoping effect, not a targeting-quality failure, since margin\_flip\_attack already uses the fully informed adaptive targeting of Section~\ref{sec:threatmodel}.

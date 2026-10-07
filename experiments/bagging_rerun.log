@@ -1,8 +1,0 @@
-[bagging RF] malicious_fraction=0.0  test AUC = 0.8893 (trials: ['0.890', '0.894', '0.884'])
-[bagging RF] malicious_fraction=0.1  test AUC = 0.8866 (trials: ['0.888', '0.893', '0.879'])
-[bagging RF] malicious_fraction=0.2  test AUC = 0.8866 (trials: ['0.888', '0.893', '0.879'])
-[bagging RF] malicious_fraction=0.3  test AUC = 0.8852 (trials: ['0.888', '0.891', '0.877'])
-[bagging RF] malicious_fraction=0.4  test AUC = 0.8852 (trials: ['0.888', '0.891', '0.877'])
-[bagging RF] malicious_fraction=0.5  test AUC = 0.8728 (trials: ['0.884', '0.888', '0.847'])
-
-Saved figure to C:\python exp\Fed Tree - Attacks\results\figures\rf_bagging_control.png

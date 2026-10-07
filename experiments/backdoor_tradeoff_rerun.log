@@ -1,7 +1,0 @@
-=== Category-4 backdoor stealth-vs-success, n_rounds=3, 5 seeds ===
-  num_plants= 1  honest=0.8690  AUC_cost=0.0077+/-0.0117  flip_rate=0.0978+/-0.0495
-  num_plants= 2  honest=0.8690  AUC_cost=0.0050+/-0.0138  flip_rate=0.0505+/-0.0355
-  num_plants= 3  honest=0.8690  AUC_cost=0.0083+/-0.0141  flip_rate=0.0409+/-0.0274
-  num_plants= 5  honest=0.8690  AUC_cost=0.0316+/-0.0213  flip_rate=0.0815+/-0.0441
-  num_plants= 8  honest=0.8690  AUC_cost=0.1283+/-0.0365  flip_rate=0.1256+/-0.0862
-  num_plants=13  honest=0.8690  AUC_cost=0.3041+/-0.0290  flip_rate=0.1256+/-0.0862
