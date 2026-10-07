@@ -1,6 +1,6 @@
 # Split and Leaf Hijacking: code, seeds and results
 
-Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees* (Turke Althobaiti, Habib Ullah Manzoor, Basim Alhumaily, Naeem Ramzan). The paper is submitted to *Neurocomputing* and is currently under revision; this repository will be updated if the manuscript changes during review.
+Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees* (Turke Althobaiti, Habib Ullah Manzoor, Basim Alhumaily, Naeem Ramzan).
 
 ## About this research
 
@@ -80,6 +80,18 @@ All attack results apply to the implementations in this repository. FedTree v1.0
 ## Known limitation
 
 Four VFL tasks raised a Paillier `OverflowError` on first execution: one in an early batch (task not identified) and three in the final batch (`bd_credit_8_1`, `leaf_adult_1.0_7`, `party_3_0`). Each was rerun three times with fresh keys, all reruns succeeded with identical results, and the rerun values are the ones used. `revision/results/overflow_events.json` records the events. We cannot explain them.
+
+## Cite this paper
+
+```bibtex
+@article{althobaiti2026splitleaf,
+  title   = {Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees},
+  author  = {Althobaiti, Turke and Manzoor, Habib Ullah and Alhumaily, Basim and Ramzan, Naeem},
+  journal = {Neurocomputing},
+  year    = {2026},
+  note    = {Under review}
+}
+```
 
 ## License
 
