@@ -2,6 +2,21 @@
 
 Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees* (Turke Althobaiti, Habib Ullah Manzoor, Basim Alhumaily, Naeem Ramzan). The paper is submitted to *Neurocomputing* and is currently under revision; this repository will be updated if the manuscript changes during review.
 
+## About this research
+
+**The setting.** Federated gradient-boosted trees let several organizations (banks, hospitals, ...) train one tree ensemble without sharing raw data. Two protocols are in use: horizontal FL (HFL), where each client holds different *rows* and the server sums every client's gradient histogram to pick each split, and vertical FL (VFL/SecureBoost), where each party holds different *columns* and a passive party builds an encrypted histogram under Paillier homomorphic encryption. Either way, every node of every tree is decided by a **discrete argmax** over an aggregated statistic.
+
+**The gap.** Most federated learning security research targets neural networks trained with FedAvg-style continuous averaging, and most federated-tree security research targets privacy (reconstructing data, labels or splits from what is shared), not integrity. Nobody had asked what happens when the histogram a client reports, or the routing decision a passive party returns, is simply false. A discrete argmax behaves differently from a continuous average: the attacker's goal is not to shift a weighted mean a little, but to push one specific candidate split past the current winner.
+
+**The idea.** We treat this as a margin problem. For HFL we derive a closed-form **split flip margin**: the smallest forged amount that one histogram cell needs so that a chosen candidate split overtakes the current winner. This margin is provably invariant to how rows are partitioned across clients (for fixed bin edges), and we prove that, when reports are unrestricted, **one malicious client can reach anything that several colluding clients could reach** — so raw attacker count stops mattering until per-client reports are bounded.
+
+**The attacks.**
+- **Split hijacking** — a client (HFL) forges its histogram, or a passive party (VFL) rescales its encrypted gradient contribution, so that a different split is chosen at a node. This changes *what the tree learns*.
+- **Leaf hijacking** — after an honest split is chosen, a passive party returns false left/right routing decisions for a chosen fraction of samples. This changes *which leaf value a sample ends up with*, without touching split selection at all.
+- A **label-free prediction-disruption mechanism**: a VFL passive party can plant a split on its own feature and, at inference time, move a chosen input across that threshold to flip its prediction — without ever seeing a label.
+
+**What we found.** A single attacker at a modest, bounded reach (one node and its two children) causes only a small AUC drop on the datasets we test; the effect grows sharply with how much of the tree the attacker can corrupt, and full-tree coverage can collapse a model to a constant predictor. An attacker who sees nothing but its own report still does real damage, just less of it. A per-client bound on report size (a simple, practical defense) restores the usual "you need several colluders" property that unrestricted reporting removes. We also test whether simple integrity checks (conservation, magnitude, norm) catch these attacks, and show a variant that is tuned to pass a conservation check while keeping most of its effect. Full numbers, confidence intervals and the scope of every claim are in the paper (`revision/paper/paper.tex`) and the reproduction instructions below.
+
 ## Layout
 
 | Path | Content |
