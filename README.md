@@ -1,6 +1,6 @@
 # Split and Leaf Hijacking: code, seeds and results
 
-Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees*.
+Code accompanying the paper *Split and Leaf Hijacking: Integrity Attacks on Federated Gradient-Boosted Trees* (Turke Althobaiti, Habib Ullah Manzoor, Basim Alhumaily, Naeem Ramzan). The paper is submitted to *Neurocomputing* and is currently under revision; this repository will be updated if the manuscript changes during review.
 
 ## Layout
 
